@@ -2,9 +2,10 @@
 
     <pkg abbrev="xqjson" id="joewiz/xqjson">
         <name>http://xqilla.sourceforge.net/pkg/xqjson</name>
-        <abstract>JSON Parser and Serializer for XQuery.</abstract>
+        <abstract>JSON Parser and Serializer for XQuery 3.0.</abstract>
         <home>https://github.com/joewiz/xqjson</home>
-        <author id="joewiz">Joe Wicentowski</author>
+        <author id="jpcs">John Snelson</author>
+        <maintainer id="joewiz">Joe Wicentowski</maintainer>
         <category id="libs">Libraries</category>
         <tag>json</tag>
         <tag>xquery</tag>
